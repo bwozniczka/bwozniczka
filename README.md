@@ -5,7 +5,7 @@ I am a 2nd year Computer Science student at AGH University of Science and Techno
 
 * 🌍  I'm based in Krakow
 * ✉️  You can contact me at [wozniczka.bart@gmail.com](mailto:wozniczka.bart@gmail.com)
-* 🚀  My biggest project so far: [Literalia-backend](http://https://github.com/bwozniczka/literalia-backend)
+* 🚀  My biggest project so far: [Literalia-backend](https://github.com/bwozniczka/literalia-backend)
 
 ### Skills
 
