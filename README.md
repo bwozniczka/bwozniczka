@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bartłomiej Woźniczka
 ============================================================================================================================================
 
-I am a 2nd year Computer Science student at AGH University of Science and Technology.
+I am a 3rd year Computer Science and Intelligent Systems student at AGH University of Science and Technology.
 
 * 🌍  I'm based in Krakow
 * ✉️  You can contact me at [wozniczka.bart@gmail.com](mailto:wozniczka.bart@gmail.com)
