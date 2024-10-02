@@ -2,9 +2,9 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ============================================================================================================================================
   
 
-<a href="www.linkedin.com/in/bwozniczka" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.linkedin.com/in/bwozniczka" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
 I am a 3rd year Computer Science and Intelligent Systems student at AGH University of Science and Technology.  
   
