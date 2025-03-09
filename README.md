@@ -13,7 +13,7 @@ I am a 3rd year Computer Science and Intelligent Systems student at AGH Universi
 
 * 🌍  I'm based in Krakow
 * ✉️  You can contact me at [wozniczka.bart@gmail.com](mailto:wozniczka.bart@gmail.com)
-* 🚀  My biggest project so far: [Literalia-backend](https://github.com/bwozniczka/literalia-backend), 🌐 [Sky Orbit](http://sky-orbit.com/)
+* 🚀  My biggest project so far: 🌐 [Sky Orbit](http://sky-orbit.com/)
   
 <br/>  
 
